@@ -1,7 +1,7 @@
 {
-  "name": "NightCore UserBot",
-  "description": "[NightCore] A modular Telegram userbot running on Python 3.8",
-  "logo": "https://telegra.ph/file/d1efe07ce63329308d626.jpg",
+  "name": "Slave UserBot",
+  "description": "[Slave] A modular Telegram userbot running on Python 3.8",
+  "logo": "https://telegra.ph/file/83ff5625c43cc7c3bb1cd.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/IrhamFadzillah/NightCore",
+  "repository": "https://github.com/molana062/Slave",
   "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02",
   "stack": "container",
   "env": {
