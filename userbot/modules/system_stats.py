@@ -163,13 +163,14 @@ async def amireallyalive(alive):
     uptime = await get_readable_time((time.time() - StartTime))
     logo = ALIVE_LOGO
     output = (
-        f"`NightCore` is running on `{repo.active_branch.name}`\n"
-        "`====================================`\n"
-        f"👤 User             : {DEFAULTUSER}\n\n"
-        f"🐍 Python           : {python_version()}\n\n"
-        f"💻 Telethon version : {version.__version__}\n\n"
-        f"🕒 Bot Uptime       : {uptime}\n"
-        "`====================================`\n"
+        f"`Shadow`Running Like What U Want  `{repo.active_branch.name}`\n"
+        "`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰`\n"
+        f"🀄️ ๓ครtєг         : {DEFAULTUSER}\n"
+        f"🀄️ ᎵᎩᎿᏂᏫᏁ       : {python_version()}\n"
+        f"🀄️ tєlєtђ๏ภ    : {version.__version__}\n"
+        f"🀄️ ๒ครє       : [NightCore](buttonurl:https://github.com/IrhamFadzillah/NightCore)\n"
+        f"🀄️ ๓є        : [Shadow](buttonurl:https://t.me/Leviousas)\n"
+        "`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰`\n"
     )
     if ALIVE_LOGO:
         try:
