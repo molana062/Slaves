@@ -160,7 +160,7 @@ async def pipcheck(pip):
 @register(outgoing=True, pattern=r"^\.(alive|on)$")
 async def amireallyalive(alive):
     """For .alive command, check if the bot is running."""
-    uptime = await get_readable_time((time.time() - StartTime))
+    await get_readable_time((time.time() - StartTime))
     logo = ALIVE_LOGO
     output = (
         f"`Shadow`Running Like What U Want  `{repo.active_branch.name}`\n"
