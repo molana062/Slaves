@@ -95,7 +95,7 @@ OCR_SPACE_API_KEY = os.environ.get("OCR_SPACE_API_KEY", None)
 # Default .alive name anf logo
 ALIVE_NAME = os.environ.get("ALIVE_NAME") or None
 ALIVE_LOGO = os.environ.get(
-    "ALIVE_LOGO") or "https://telegra.ph/file/89dfe9e76840ca993ec69.jpg"
+    "ALIVE_LOGO") or "https://telegra.ph/file/47e27c26a72eebb354c4a.jpg"
 
 # remove.bg API key
 REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
