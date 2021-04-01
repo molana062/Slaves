@@ -80,8 +80,7 @@ async def mention_afk(mention):
                 )
             else:
                 await mention.reply(
-                    f"**SABAR LAGI AFK!!.** (Since: {afk_str})"
-                    "\n**Tunggu ya kawan.**"
+                    f"**SABAR LAGI AFK!!.** (Since: {afk_str})" "\n**Tunggu ya kawan.**"
                 )
             if mention.sender_id is not None:
                 USERS.update({mention.sender_id: 1})
