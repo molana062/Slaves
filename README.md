@@ -1,4 +1,4 @@
-# NightCore Userbot
+# SLAVE UBOT
 
 <p align="center">
     <a href="https://app.codacy.com/gh/IrhamFadzillah/NightCore/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
@@ -9,21 +9,14 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?label=telethon&logo=pypi&logoColor=white&style=flat-square" /></a>
 </p>
 
-![logo](https://telegra.ph/file/7c29c42084e4bca205bc8.jpg)
+![logo](https://telegra.ph/file/89dfe9e76840ca993ec69.jpg)
 
 ```
 #include <std/disclaimer.h>
 /**
-    Your Telegram account may get banned.
-    I am not responsible for any improper use of this bot
-    This bot is intended for the purpose of having fun with memes,
-    as well as efficiently managing groups.
-    You ended up spamming groups, getting reported left and right,
-    and you ended up in a Finale Battle with Telegram and at the end
-    Telegram Team deleted your account?
-    And after that, then you pointed your fingers at us
-    for getting your acoount deleted?
-    I will be rolling on the floor laughing at you.
+    Cuma Clone
+    Memakai = Tanggung resiko sendiri
+    Tetap Semangat Guyss.
 /**
 ```
 
