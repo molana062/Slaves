@@ -1,7 +1,7 @@
 {
   "name": "Slave UserBot",
   "description": "[Slave] A modular Telegram userbot running on Python 3.8",
-  "logo": "https://telegra.ph/file/83ff5625c43cc7c3bb1cd.jpg",
+  "logo": "https://telegra.ph/file/47e27c26a72eebb354c4a.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -45,7 +45,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "In case you maintain a fork, add your repo URL here.",
-      "value": "https://github.com/IrhamFadzillah/NightCore",
+      "value": "https://github.com/molana062/Slave",
       "required": false
     },
     "COUNTRY": {
