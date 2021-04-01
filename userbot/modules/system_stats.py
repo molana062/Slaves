@@ -164,13 +164,15 @@ async def amireallyalive(alive):
     logo = ALIVE_LOGO
     output = (
         f"`Shadow`Running Like What U Want  `{repo.active_branch.name}`\n"
-        "`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰`\n"
-        f"🀄️ ๓ครtєг         : {DEFAULTUSER}\n"
-        f"🀄️ ᎵᎩᎿᏂᏫᏁ       : {python_version()}\n"
-        f"🀄️ tєlєtђ๏ภ    : {version.__version__}\n"
-        f"🀄️ ๒ครє       : [NightCore](buttonurl:https://github.com/IrhamFadzillah/NightCore)\n"
-        f"🀄️ ๓є        : [Shadow](buttonurl:https://t.me/Leviousas)\n"
-        "`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰`\n"
+        "`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰`\n"
+        
+        f"⚠️ sʜᴀᴅᴏᴡ         : {DEFAULTUSER}\n"
+        f"⚠️ ᴘʏᴛʜᴏɴ         : {python_version()}\n"
+        f"⚠️ ᴛᴇʟᴇᴛʜᴏɴ       : {version.__version__}\n"
+        f"⚠️ ʙᴀsᴇ           : [NightCore](buttonurl:https://github.com/IrhamFadzillah/NightCore)\n"
+        f"⚠️ ᴏᴡɴᴇʀ          : [Shadow](buttonurl:https://t.me/Leviousas)\n"
+        
+        "`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰`\n"
     )
     if ALIVE_LOGO:
         try:
