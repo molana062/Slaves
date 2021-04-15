@@ -1,8 +1,5 @@
 # SLAVE UBOT
 
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?label=telethon&logo=pypi&logoColor=white&style=flat-square" /></a>
-</p>
-
 ![logo](https://telegra.ph/file/47e27c26a72eebb354c4a.jpg)
 
 ```
