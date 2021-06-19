@@ -5,7 +5,7 @@
 ```
 #include <std/disclaimer.h>
 /**
-    Cuma Clone
+    Cuma Clone Dari Repo Night Core:)
     Memakai = Tanggung resiko sendiri
     Tetap Semangat Guyss.
 /**
